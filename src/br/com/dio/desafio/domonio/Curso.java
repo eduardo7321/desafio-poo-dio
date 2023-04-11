@@ -6,6 +6,7 @@ public class Curso {
     private int cargaHoraria;
 
     public Curso() {
+
     }
 
     public String getTitulo() {
